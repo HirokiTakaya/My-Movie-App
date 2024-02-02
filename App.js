@@ -7,7 +7,7 @@ import TVScreen from './screens/TVScreen';
 import SearchScreen from './screens/SearchScreen';
 import MovieDetailsScreen from './screens/MovieDetail';
 import TVDetailsScreen from './screens/TVDetailsScreen';
-import SearchStack1 from './screens/SearchStack'; // 上記で作成した SearchStackScreen
+import SearchStack1 from './screens/SearchStack'; 
 
 const MoviesStack = createStackNavigator();
 const MoviesStackScreen = () => (
